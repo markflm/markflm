@@ -9,4 +9,4 @@ I'm always looking for opportunities to combine existing services with my own wo
 Right now I'm mostly working in Javascript including TypeScript, Vue, Angular2+ and Nodejs, but I've got a background in C# and database development (ETL, BI Reporting, Data Warehousing). 
 
 
-You can reach me at mpcrav01 at gmail.com or on Twitter @Kifflom.
+You can reach me at mpcrav01 at gmail.com.
